@@ -26,7 +26,7 @@ The greatest decrease in losses (date and difference in the amounts) over the en
 
 ## Application Screenshot
 
- (![Application Screenshott](<screenshot/Application.finishing.PNG>))
+ ![Application Screenshott](<screenshot/Application.finishing.PNG>)
 
 This screenshot provides a visual overview of the application's user interface.
 
