@@ -31,6 +31,10 @@ The greatest decrease in losses (date and difference in the amounts) over the en
 This screenshot provides a visual overview of the application's user interface.
 
 
+## Deployed Application URL
+
+https://terr0y.github.io/Console-Finances/
+
 
 ## License
 
